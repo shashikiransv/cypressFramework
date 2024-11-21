@@ -1,0 +1,22 @@
+{
+  "name": "cypressframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashikiransv/cypressFramework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashikiransv/cypressFramework/issues"
+  },
+  "homepage": "https://github.com/shashikiransv/cypressFramework#readme",
+  "devDependencies": {
+    "cypress": "^13.16.0"
+  }
+}
